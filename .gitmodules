@@ -1,0 +1,3 @@
+[submodule "FCND-Controls-CPP"]
+	path = FCND-Controls-CPP
+	url = https://github.com/udacity/FCND-Controls-CPP.git
