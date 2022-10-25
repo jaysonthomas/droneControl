@@ -1,4 +1,6 @@
 *.bkp
+*.o
+*.pro.user
 
 ## Simulator specific ignores
 
